@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="100%" />
 </p>
 <h1 align="center">Yo, I'm Aryan THE GOAT</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Freelancer</h3>

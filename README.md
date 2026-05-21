@@ -22,7 +22,6 @@
 > "No matter how hard it gets… I never give up."
 
 ---
-![](https://komarev.com/ghpvc/?username=ari2387q&color=blue)
 ## 🛠 Tech Stack
 
 <p align="center">

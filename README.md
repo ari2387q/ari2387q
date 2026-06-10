@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase"/>
 <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase"/>
+<img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=fastapi"/>
 
 <br/>
 

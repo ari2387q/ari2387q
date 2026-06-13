@@ -43,10 +43,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/BurpSuite-black?style=for-the-badge&logo=burpsuite"/>
-
 </p>
 
 ---

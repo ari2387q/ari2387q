@@ -32,7 +32,10 @@
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase"/>
 <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=fastapi"/>
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-blue?style=for-the-badge)
 
 <br/>
 

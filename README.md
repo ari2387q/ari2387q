@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">Yo, I'm Aryan THE GOAT</h1>
 <h3 align="center">Backend developer | AI Engineer aspirant | Challenge Enthusiast</h3>
-
 <p align="center">
    Building real-world web applications |  Passionate Developer |  Never Give Up
 </p>

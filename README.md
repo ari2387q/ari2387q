@@ -12,8 +12,8 @@
 ## 🧑‍💻 About Me
 
 - 💼 Freelancer – built real-time web applications  
-- 🌐 MERN Stack Developer (MongoDB, Express, React, Node.js)  
-- ⚡ Love building scalable & interactive apps  
+- 🌐 MERN Stack Developer
+- ⚡ RAG,LLM and Machine learning enthusiast
 - 🧠 Constantly learning and improving  
 
 > 🖤 Inspired by Asta from Black Clover —  

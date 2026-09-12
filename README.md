@@ -6,7 +6,6 @@
 <p align="center">
    Building real-world web applications |  Passionate Developer |  Never Give Up
 </p>
-
 ---
 ## 🧑‍💻 About Me
 

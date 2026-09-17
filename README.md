@@ -7,7 +7,7 @@
    Building real-world web applications |  Passionate Developer |  Never Give Up
 </p>
 ---
-## 🧑‍💻 About Me
+🧑‍💻 About Me
 
 - 💼 Freelancer – built real-time web applications  
 - 🌐 MERN Stack Developer

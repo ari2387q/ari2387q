@@ -6,13 +6,13 @@
 <p align="center">
    Building real-world web applications |  Passionate Developer |  Never Give Up
 </p>
----
+
 🧑‍💻 About Me
 
-- 💼 Freelancer – built real-time web applications  
-- 🌐 MERN Stack Developer
-- ⚡ RAG,LLM and Machine learning enthusiast
-- 🧠 Constantly learning and improving  
+- Freelancer – built real-time web applications  
+- MERN Stack Developer
+- RAG,LLM and Machine learning enthusiast
+- Constantly learning and improving  
 
 > 🖤 Inspired by Asta from Black Clover —  
 > "No matter how hard it gets… I never give up."

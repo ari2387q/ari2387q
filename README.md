@@ -19,7 +19,6 @@ About Me
 
 ---
 ## 🛠 Tech Stack
-
 <p align="center">
 
 <p align="center">

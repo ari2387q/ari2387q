@@ -7,7 +7,6 @@
    Building real-world web applications |  Passionate Developer |  Never Give Up
 </p>
 About Me
-
 - Freelancer – built real-time web applications  
 - MERN Stack Developer
 - RAG,LLM and Machine learning enthusiast

@@ -5,7 +5,7 @@
 <h3 align="center">Backend developer | AI Engineer | Challenge Enthusiast</h3>
 <p align="center">
    Building real-world web applications |  Passionate Developer |  Never Give Up
-</p>
+</p> 
 
 About Me
 
